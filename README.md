@@ -9,12 +9,10 @@
     % git config --global user.email "メールアドレス"</pre>
   <li>ユーザ情報確認</li>
     <pre>
-      <code>
-      <body>
+    <code>
       % git config --list
       user.name=ユーザ名
       user.email=メールアドレス
-      </body>
-      </code>
+    </code>
     </pre>
 </ol>
