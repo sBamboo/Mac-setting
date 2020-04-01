@@ -18,11 +18,11 @@
 
 <h2>SSH鍵の取得</h2>
 <pre>
-% ssh-keygen -t rsa -b 4096 -C "S.bambooMK@gmail.com"
-Generating public/private rsa key pair.
-Enter file in which to save the key (/Users/sbamboo/.ssh/id_rsa):任意の鍵名をフルパスで記入
-Created directory '/Users/sbamboo/.ssh'.
-Enter passphrase (empty for no passphrase):パスフレーズを入力。必須ではないが入力を推奨
-Enter same passphrase again: 上記のパスフレーズの再入力
-Your identification has been saved in /Users/sbamboo/.ssh/id_rsa_github.
-Your public key has been saved in /Users/sbamboo/.ssh/id_rsa_github.pub.</pre>
+  % ssh-keygen -t rsa -b 4096 -C "S.bambooMK@gmail.com"
+  Generating public/private rsa key pair.
+  Enter file in which to save the key (/Users/sbamboo/.ssh/id_rsa):任意の鍵名をフルパスで記入
+  Created directory '/Users/sbamboo/.ssh'.
+  Enter passphrase (empty for no passphrase):パスフレーズを入力。必須ではないが入力を推奨
+  Enter same passphrase again: 上記のパスフレーズの再入力
+  Your identification has been saved in /Users/sbamboo/.ssh/id_rsa_github.
+  Your public key has been saved in /Users/sbamboo/.ssh/id_rsa_github.pub.</pre>
