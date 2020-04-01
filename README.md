@@ -8,9 +8,15 @@
     <pre>% git config --global user.name "ユーザ名"
     % git config --global user.email "メールアドレス"</pre>
   <li>ユーザ情報確認</li>
-    <pre　style="margin-bottom:0">
+    <pre>
       % git config --list
       user.name=ユーザ名
       user.email=メールアドレス
     </pre>
 </ol>
+
+<style>
+  pre{
+  margin-bottom:0;
+  }
+</style>
