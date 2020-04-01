@@ -4,8 +4,7 @@
   <li>Gitのバージョン確認</li>
     <pre>
     $ git --version
-    git version 2.21.1 (Apple Git-122.3)
-    </pre>
+    git version 2.21.1 (Apple Git-122.3)</pre>
   <li>ユーザ情報登録</li>
     <pre>
     % git config --global user.name "ユーザ名"
@@ -16,5 +15,5 @@
     % git config --list
     user.name=ユーザ名
     user.email=メールアドレス
-    <pre>
+    </pre>
 </ol>
