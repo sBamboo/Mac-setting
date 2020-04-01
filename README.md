@@ -34,7 +34,7 @@
   現在のパーミッションの確認
   <pre>
   % ls -la /Users/sbamboo/.ssh/id_rsa_github.pub
-  -rw-r--r--   1 sbamboo  staff   746  4  2 01:57 id_rsa_github.pub<pre>
+  -rw-r--r--   1 sbamboo  staff   746  4  2 01:57 id_rsa_github.pub</pre>
   パーミッションの変更
   <pre>% chmod 600 /Users/sbamboo/.ssh/id_rsa_github.pub</pre> 
   変更後のパーミッション確認
