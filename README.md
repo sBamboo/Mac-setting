@@ -10,9 +10,11 @@
   <li>ユーザ情報確認</li>
     <pre>
       <code>
+      <body>
       % git config --list
       user.name=ユーザ名
       user.email=メールアドレス
+      </body>
       </code>
     </pre>
 </ol>
