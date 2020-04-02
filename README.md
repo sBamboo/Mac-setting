@@ -43,8 +43,7 @@
   -rw-------   1 sbamboo  staff   746  4  2 01:57 id_rsa_github.pub</pre> 
   SSHのconfigファイル生成
   <pre>
-  % vi /Users/sbamboo/.ssh/config
-  </pre>
+  % vi /Users/sbamboo/.ssh/config</pre>
   <pre>
   Host github
    HostName github.com
